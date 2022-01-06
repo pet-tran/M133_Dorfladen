@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\scripts",
+    "\\frontend\\scripts\\JS",
+    "\\frontend\\scripts\\TS",
+    "\\frontend\\static",
+    "\\frontend\\static\\css"
+  ],
+  "SelectedNode": "\\frontend\\index.ejs",
+  "PreviewInSolutionExplorer": false
+}
